@@ -3,6 +3,7 @@
 A small paint program
 ## Version:
 Made in python 3.13.7
+
 Windows release is for 1920x1080
 ## Controls:
 - 1 red
@@ -24,5 +25,6 @@ Windows release is for 1920x1080
 - alt+f4 close
 - left click draw
 ## How to build:
-Change the numbers in line 4 to whatever your resolution is (standars is full hd)
+Change the numbers in line 4 to whatever your resolution is (standard is full hd)
+
 Build using pyinstaller with the flag --onefile
