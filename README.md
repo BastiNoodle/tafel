@@ -6,6 +6,7 @@ Made in python 3.13.7
 
 Windows release is for 1920x1080
 ## Controls:
+(also in png image)
 - 1 red
 - 2 yellow
 - 3 green
