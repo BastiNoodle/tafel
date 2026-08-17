@@ -1,6 +1,9 @@
 # Tafel
 ## Description:
 A small paint program
+## Version:
+Made in python 3.13.7
+Windows release is for 1920x1080
 ## Controls:
 - 1 red
 - 2 yellow
